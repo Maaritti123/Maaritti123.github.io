@@ -35,6 +35,9 @@ use class selector (e.g. profile-image */
 	height: 200px; */
 	
 	border: 2px dotted;
-  	height: 200px;
-  	width: 200px;
+}
+
+div {
+  height: 200px;
+  width: 200px;
 }
