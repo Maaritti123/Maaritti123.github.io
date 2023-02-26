@@ -18,7 +18,7 @@ p {
 
 /* replace ordered list numbers with letters */
 ol {
-/*	list-style: upper-latin;   */
+	list-style: upper-latin;
  }
 
 /* replace unordered list dots with squares */
@@ -30,7 +30,6 @@ ul {
 use class selector (e.g. profile-image */
 .box { 
 	border: 2px dotted;
-/*	width: 400px;
-	height: 400px; */
+	width: 200px;
+	height: 200px;
 }
-
