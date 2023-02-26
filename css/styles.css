@@ -18,19 +18,23 @@ p {
 
 /* replace ordered list numbers with letters */
 ol {
-	list-style-type: upper-latin;
+	list-style: upper-latin;
  }
 
 /* replace unordered list dots with squares */
 ul {
-	list-style-type: square;
+	list-style: square;
  }
 
 /* div border to dotted and 2 pixels wide, div width and height 200,
 use class selector (e.g. profile-image */
 .box { 
-	border-style: dotted;
+/*	border-style: dotted;
 	border-width: 2px;
 	width: 200px;
-	height: 200px;
+	height: 200px; */
+	
+	border: 2px dotted;
+  	height: 200px;
+  	width: 200px;
 }
