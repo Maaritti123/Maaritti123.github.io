@@ -30,7 +30,7 @@ ul {
 use class selector (e.g. profile-image */
 .box { 
 	border: 2px dotted;
-	width: 200px;
+	width: 400px;
 	height: 400px;
 }
 
