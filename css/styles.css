@@ -1,3 +1,11 @@
+/* div border to dotted and 2 pixels wide, div width and height 200,
+use class selector (e.g. profile-image */
+.box { 
+	border: 2px dotted;
+	width: 200px;
+	height: 200px;
+}
+
 /* body background color ivory, text color gray */
 body { 
 	background-color: #FFFFF0; 
@@ -26,10 +34,3 @@ ul {
 	list-style: square;
  }
 
-/* div border to dotted and 2 pixels wide, div width and height 200,
-use class selector (e.g. profile-image */
-.box { 
-	border: 2px dotted;
-	width: 200px;
-	height: 200px;
-}
