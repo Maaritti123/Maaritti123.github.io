@@ -1,3 +1,12 @@
+aside{
+	float: right;
+	background-color: #F5F5DC;  /* beige */
+}
+
+header{
+	background-color: #90EE90; /* light green */
+}
+
 /* body background color ivory, text color gray */
 body { 
 	background-color: #FFFFF0; 
@@ -59,3 +68,6 @@ use class selector (e.g. profile-image */
 .padded { 
 	padding-left: 35px }
 
+footer{
+	background-color: #ADD8E6;  /* light blue */
+}
